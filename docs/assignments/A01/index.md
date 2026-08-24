@@ -43,7 +43,23 @@ The springs purpose is to store potential energy which when acted upon will prod
 
 The pin is used as a guide to allow the force applied to the lever to translate to the spring while also guiding the cutting teeth together. Without the pin the force would not translate properly and leverage would not be achieved. The lever applies an upward force on the pin while the pin holds it in place such that leverage can be applied below to the spring.
 
-D.
+D. 
+
+Patent ID: U.S. Patent No. 244,891
+Inventor: Eugene Heim and Celestin Matz
+
+Alternatives:
+
+I.
+
+1. Nail Scissors
+
+2. Electric Nail File
+
+II. 
+
+The original inventor created specific ridges in the spring that the lever sits in. This provides additional structure to the nail clippers and limits the pressure on the pin.
+
 
 ## Decide
 
