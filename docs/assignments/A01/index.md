@@ -17,11 +17,26 @@ This portfolio is very creative as it has multiple pop out menus and animations 
 **Task B: Product Analysis**
 Nail Clippers - 
 
+<img width="3024" height="1856" alt="Clippers (Full)" src="https://github.com/user-attachments/assets/982889da-e64d-45a8-9c13-2dc6d7453ebb" />
+
 A. Through a level system, the purpose of nail clippers is to transfer force on the lever into the opposing double-edge shear force.
 
-B. This product is governed by a moment equilibrium. F(pin) = F(input)*(Llever)/(dfulcrum). The assumption is that the metal will undergo an elastic bending where the product will return to its original position upon release.
+B. This product is governed by a moment equilibrium. F(pin) = F(input)*(Llever)/(dout). The assumption is that the metal will undergo an elastic bending where the product will return to its original position upon release.
 
 C.
+
+**1. Lever**
+
+<img width="3024" height="1100" alt="Clippers (Lever)" src="https://github.com/user-attachments/assets/424d9ef5-f402-4d21-912a-6e081fce5a29" />
+
+**2. Spring**
+
+<img width="2866" height="592" alt="Clippers (Spring)" src="https://github.com/user-attachments/assets/dfb78ac8-ecdc-4334-a01c-bc2462f85891" />
+
+**3. Pin**
+
+<img width="572" height="628" alt="Clippers (Pin)" src="https://github.com/user-attachments/assets/8520f0d3-0bce-4174-b0f9-9f56296c8b3a" />
+
 
 ## Decide
 
