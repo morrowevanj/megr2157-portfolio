@@ -29,7 +29,7 @@ C.
 
 <img width="3024" height="1100" alt="Clippers (Lever)" src="https://github.com/user-attachments/assets/424d9ef5-f402-4d21-912a-6e081fce5a29" />
 
-The lever is used as leverage to complete a lateral force on the spring. This allows the user to user minimal force while achieving a multiplying clamping force.
+The lever is used as leverage to complete a lateral force on the spring. This allows the user to user minimal force while achieving a multiplying clamping force. The lever has a curve at the end for leveraging against the pin while being able to push down on the spring.
 
 **2. Spring**
 
@@ -41,7 +41,7 @@ The springs purpose is to store potential energy which when acted upon will prod
 
 <img width="572" height="628" alt="Clippers (Pin)" src="https://github.com/user-attachments/assets/8520f0d3-0bce-4174-b0f9-9f56296c8b3a" />
 
-The pin is used as a guide to allow the force applied to the lever to translate to the spring while also guiding the cutting teeth together. Without the pin the force would not translate properly and leverage would not be achieved. 
+The pin is used as a guide to allow the force applied to the lever to translate to the spring while also guiding the cutting teeth together. Without the pin the force would not translate properly and leverage would not be achieved. The lever applies an upward force on the pin while the pin holds it in place such that leverage can be applied below to the spring.
 
 D.
 
