@@ -15,7 +15,13 @@ Portfolio 2: https://minimal-portfolio-swart.vercel.app/#projects
 This portfolio is very creative as it has multiple pop out menus and animations that catch the observers attention. While some may find the additional features distracting, the projects listed are extensive. The redirect feature on the portfolio does not work therefore reproducibility is not achievable with this specific portfolio. This portfolio shows that only the solution was shown as there is no backend code presented and redirection is inoperable. Therefore the language does not meet the requirement that I would present an employer.
 
 **Task B: Product Analysis**
+Nail Clippers - 
 
+A. Through a level system, the purpose of nail clippers is to transfer force on the lever into the opposing double-edge shear force.
+
+B. This product is governed by a moment equilibrium. F(pin) = F(input)*(Llever)/(dfulcrum). The assumption is that the metal will undergo an elastic bending where the product will return to its original position upon release.
+
+C.
 
 ## Decide
 
