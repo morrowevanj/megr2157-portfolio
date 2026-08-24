@@ -1,1 +1,8 @@
 #About Me Here is about me:
+My name is Evan Morrow. I am a Mechanical Engineering student at the University of North Carolina at Charlotte. I chose to study Mechanical Engineering due to my interest in how things work and how things are made. I spent a lot of time growing up learning different trades and designing/creating my own products so Mechanical Engineering was the next logical step. Learning how things work has always come easy to me and I can break down objects in my mind down to simple systems. I have an interest in the manufacturing process and may pursue that in the future or Sales Engineering. 
+
+My identity as an engineer comes from my determination to solve problems and improve performance and efficiency. I am always looking for ways to be faster at what I do if it is in my personal, professional or school life. Most of what I have realized thus far is that many people do not fully understand the problem they are trying to solve, therefore delay finding a solution or do not find a solution entirely. My goal as an engineer is to understand the product/problem fully and be a bridge to clients/managers. Many engineers have the ability to understand extensive math and physics but lack the ability to verbalize the great thinking that they are capable of. I aim to change that. 
+
+I believe to defend an engineering decision means to with conviction explain as to why the solution provided is the best one. The defense consists of presentation of reasons, testing and comparison between solutions. This defense allows those making decisions to understand the entire issue and be provided with a solution that is not only explained but repeatable.
+
+I spent a couple days on this assignment.
