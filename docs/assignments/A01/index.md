@@ -1,6 +1,9 @@
 # A1 – Build Your Professional Portfolio
 
 ## Objective
+
+## Analyze
+
 **Task A: Portfolio Analysis** 
 
 Portfolio 1: https://soumyajit.vercel.app/
@@ -12,8 +15,6 @@ Portfolio 2: https://minimal-portfolio-swart.vercel.app/#projects
 This portfolio is very creative as it has multiple pop out menus and animations that catch the observers attention. While some may find the additional features distracting, the projects listed are extensive. The redirect feature on the portfolio does not work therefore reproducibility is not achievable with this specific portfolio. This portfolio shows that only the solution was shown as there is no backend code presented and redirection is inoperable. Therefore the language does not meet the requirement that I would present an employer.
 
 **Task B: Product Analysis**
-
-## Analyze
 
 
 ## Decide
