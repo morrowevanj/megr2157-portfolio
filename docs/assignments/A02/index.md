@@ -22,7 +22,7 @@ A500 Structural Steel yeild strength can be found here: https://www.amerpipe.com
 
 I actually solved for my pin size first before the truss geometry as any structure is only as strong as its weakest link and I would have to base the size of the truss on how large the pin actually needs to be. In the calculations you will see both theoretical and actual calculations that are both necessary for defining minimum and maximum allowances.
 
-Due to the fact of the largest external force being 200 N, to maintain longevity of the truss and for the pins no the be the limiting component, I rated the pins for the larger external force instead of the smaller 66.67 N internal force max. 
+Due to the fact of the largest external force being 200 N, to maintain longevity of the truss and for the pins not the be the limiting component, I rated the pins for the larger external force instead of the smaller 66.67 N internal force max. 
 
 ## Analyze
 
