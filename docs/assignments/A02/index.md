@@ -18,6 +18,10 @@ A500 Structural Steel yeild strength can be found here: https://www.amerpipe.com
 
 **2. Truss Geometry**
 
+**3. Pin Geometry**
+
+Due to the fact of the largest external force being 200 N, to maintain longevity of the truss and for the pins no the be the limiting component, I rated the pins for the larger external force instead of the smaller 66.67 N internal force max. 
+
 ## Analyze
 
 
