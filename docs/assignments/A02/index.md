@@ -1,3 +1,4 @@
+<img width="542" height="303" alt="Screenshot 2026-08-31 141151" src="https://github.com/user-attachments/assets/0d5a73b6-1e28-4e77-b506-e072912e73d0" />
 # A2 – Design with Basic Stresses
 
 ## Objective
@@ -41,6 +42,12 @@ Due to the fact of the largest external force being 20kN, to maintain longevity 
 <img width="1381" height="1145" alt="IMG_0131" src="https://github.com/user-attachments/assets/16afbbea-a53c-4005-a1b5-8628fdb44ef4" />
 
 <img width="1718" height="773" alt="IMG_0132" src="https://github.com/user-attachments/assets/b47b8071-b1fa-48df-83e5-dccd04a5d3db" />
+
+
+
+
+
+<img width="542" height="303" alt="Screenshot 2026-08-31 141151" src="https://github.com/user-attachments/assets/2087bf7f-61da-404a-8a0a-7c6e647a2ad5" />
 
 
 
