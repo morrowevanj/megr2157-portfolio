@@ -1,4 +1,3 @@
-<img width="542" height="303" alt="Screenshot 2026-08-31 141151" src="https://github.com/user-attachments/assets/0d5a73b6-1e28-4e77-b506-e072912e73d0" />
 # A2 – Design with Basic Stresses
 
 ## Objective
