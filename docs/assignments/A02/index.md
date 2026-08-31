@@ -49,6 +49,21 @@ Due to the fact of the largest external force being 20kN, to maintain longevity 
 <img width="542" height="303" alt="Screenshot 2026-08-31 141151" src="https://github.com/user-attachments/assets/2087bf7f-61da-404a-8a0a-7c6e647a2ad5" />
 
 
+<img width="1102" height="392" alt="TRUSS ASSEMBLY STEP 7" src="https://github.com/user-attachments/assets/ba391063-dda1-430f-8ea3-1823a8899071" />
+
+<img width="1015" height="340" alt="TRUSS ASSEMBLY STEP 6" src="https://github.com/user-attachments/assets/2831066a-e00e-405d-a7f8-238d50c57046" />
+
+<img width="1051" height="347" alt="TRUSS ASSEMBLY STEP 5" src="https://github.com/user-attachments/assets/2b640ec9-3b44-417f-9cc4-a48e374516b0" />
+
+<img width="1010" height="320" alt="TRUSS ASSEMBLY STEP 4" src="https://github.com/user-attachments/assets/5c542bb0-d15a-4f1c-8818-54189e690bd8" />
+
+<img width="1112" height="250" alt="TRUSS ASSEMBLY STEP 3" src="https://github.com/user-attachments/assets/1493b315-70ff-4d22-9719-4ffe2b5962c9" />
+
+<img width="1915" height="897" alt="TRUSS ASSEMBLY STEP 2" src="https://github.com/user-attachments/assets/e1c03732-dda1-4580-9b96-146ad334828c" />
+
+<img width="832" height="365" alt="TRUSS ASSEMBLY STEP 1" src="https://github.com/user-attachments/assets/01f478ef-b156-4010-9ef7-d3e3be965b37" />
+
+
 
 ## Analyze
 
