@@ -51,10 +51,9 @@ Then I solved for the minimum cross sectional area based on the shear strength r
 Then I solved for the weight of a singular pin and then the total the mass of all the pins. I converted this into Newtons and then calculated for my total weight. The total weight came out to about 44.35N. 
 <img width="1718" height="773" alt="IMG_0132" src="https://github.com/user-attachments/assets/b47b8071-b1fa-48df-83e5-dccd04a5d3db" />
 
+**4. CAD Design**
 
-
-
-
+For the 
 <img width="542" height="303" alt="Screenshot 2026-08-31 141151" src="https://github.com/user-attachments/assets/2087bf7f-61da-404a-8a0a-7c6e647a2ad5" />
 
 <img width="832" height="365" alt="TRUSS ASSEMBLY STEP 1" src="https://github.com/user-attachments/assets/d984ee39-108e-47cf-a7fe-4e60d9c5f921" />
@@ -72,11 +71,3 @@ Then I solved for the weight of a singular pin and then the total the mass of al
 <img width="1102" height="392" alt="TRUSS ASSEMBLY STEP 7" src="https://github.com/user-attachments/assets/f7147f67-4dbe-408e-8014-f96cd47afd58" />
 
 
-
-## Analyze
-
-
-## Decide
-
-
-## Communicate
