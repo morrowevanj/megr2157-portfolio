@@ -75,3 +75,24 @@ Pins are now added to the truss with the variable lengths such that 2.5 mm allow
 Below is the specifications of the entire assembly such that the practical representation of the Truss in Solid Works can be checked with the theoretical calculations that were previously made. 
 <img width="677" height="565" alt="Screenshot 2026-08-31 150253" src="https://github.com/user-attachments/assets/db29f102-e2c3-4128-b538-5fc295ee411d" />
 
+**5. Lesson Learned**
+
+I learned a lot through this project. From the beginning, I had not used Solid Works in over a year and jumping back into it I had to review its uses. Then I learned about the real world application of stress and strength and how they impact your calculations. Similar to internal forces shear force is very important to calculate for in addition to your safety factor which I was no aware of. This assignment took be a total of a week to complete with a combined 12 hours. I have learned that this class requires time management and focus. Much of my time was spent just figuring out what I needed to do while maybe 25% of the time was actually doing the work. I believe I have submitted high quality work while completing it efficiently.
+
+**6. Likelihood of Failure**
+
+Part 1:
+
+
+Part 2:
+
+
+**CAD Links**
+
+
+
+
+
+
+
+
