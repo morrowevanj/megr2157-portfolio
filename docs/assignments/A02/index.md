@@ -17,6 +17,7 @@ A500 Structural Steel yeild strength can be found here: https://www.amerpipe.com
 
 
 **2. Truss Geometry**
+
 First, I identified all the parts, measurements and distances in the first image.
 <img width="1977" height="989" alt="IMG_0123" src="https://github.com/user-attachments/assets/77f241dd-f7f2-44cd-a6f5-2a1b64e3bc46" />
 
@@ -26,11 +27,13 @@ Secondly, I went ahead a drew my truss that I believed would suffice in supporti
 Thirdly, I solved for external forces Ax, Ay, Bx, and By. I also calculated the angle that is present in the truss which will help later on with the internal joint forces.
 <img width="2083" height="753" alt="IMG_0125" src="https://github.com/user-attachments/assets/fa9996d2-a2f7-4c1d-af7e-d76ffa727e06" />
 
-
+Fourthly, I solved for the internal pin forces, identifying that 11.12kN is my largest force in both tension and compression. The directions state, "Assume that elements that are in compression won’t fail in buckling."
 <img width="949" height="1238" alt="IMG_0126" src="https://github.com/user-attachments/assets/0f606b69-4fe4-44f0-b0c5-7d9daddca825" />
 
+Now using the stress equation I calculated the minimum cross sectional area to meet the necessary safety factor of 3.5. Then on the right side of the paper I calculated my actual cross sectional area. I chose to make my dimensions slightly larger as specified below I calculated the pin size first based on the largest external force applied being 20kN. Due to this the cross sectional area is 15mm x 10mm making the total 150 mm^2. this allows not only a buffer in hole size but strengthen the overall structure from dynamic forces if forces were to change slightly. My factor of safety was 5.74 > 3.5.
 <img width="1967" height="687" alt="IMG_0127" src="https://github.com/user-attachments/assets/ecef794f-e2de-48da-893d-f8ae845c517e" />
 
+Then I calculated the total length, adding the length of each element then multiplying it by the cross sectional area and then using the mass equation calculated the mass in kg. I proceeded to convert the mass into Newtons which came out to 42.75N.
 <img width="2158" height="864" alt="IMG_0128" src="https://github.com/user-attachments/assets/da48ce28-7217-4c95-8ab7-530d6cb38420" />
 
 **3. Pin Geometry**
