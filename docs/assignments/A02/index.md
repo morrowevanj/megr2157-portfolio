@@ -17,12 +17,15 @@ A500 Structural Steel yeild strength can be found here: https://www.amerpipe.com
 
 
 **2. Truss Geometry**
-
+First, I identified all the parts, measurements and distances in the first image.
 <img width="1977" height="989" alt="IMG_0123" src="https://github.com/user-attachments/assets/77f241dd-f7f2-44cd-a6f5-2a1b64e3bc46" />
 
+Secondly, I went ahead a drew my truss that I believed would suffice in supporting the 2 active forces on the truss and then drew in the distance of my truss.
 <img width="1494" height="768" alt="IMG_0124" src="https://github.com/user-attachments/assets/c17f8416-e772-4b3e-9a52-0fb7288d220d" />
 
+Thirdly, I solved for external forces Ax, Ay, Bx, and By. I also calculated the angle that is present in the truss which will help later on with the internal joint forces.
 <img width="2083" height="753" alt="IMG_0125" src="https://github.com/user-attachments/assets/fa9996d2-a2f7-4c1d-af7e-d76ffa727e06" />
+
 
 <img width="949" height="1238" alt="IMG_0126" src="https://github.com/user-attachments/assets/0f606b69-4fe4-44f0-b0c5-7d9daddca825" />
 
