@@ -42,10 +42,13 @@ I actually solved for my pin size first before the truss geometry as any structu
 
 Due to the fact of the largest external force being 20kN, to maintain longevity of the truss and for the pins not the be the limiting component, I rated the pins for the larger external force instead of the smaller 6.67 kN internal force max. 
 
+First I calculated for the maximum internal force as described above. I took the pin with the highest number of forces applied and then solved for the magnitude which provided the largest internal force.
 <img width="1931" height="1012" alt="IMG_0129" src="https://github.com/user-attachments/assets/99b507a8-2a9d-4582-95ae-63ddd36a8eb7" />
 
+Then I solved for the minimum cross sectional area based on the shear strength required. Using this minimum I went ahead and rounded the minimum up to 10 mm diameter and then found the actual area and the factor of safety. The factor of safety came out to 4.60 > 4. In this same image on the right you are able to see that I solved for the length that I would make the pin. The largest amount of elements that would be connected at the same time would be 4, 3 and then 2. Below in my CAD modeling you will see that I make each pins length long enough to have a 2.5 mm allowance on both sides such that slipping or improper installation may be taken into consideration. Additionally if a bolt or a head is needed to be attached it would only be a simple adjustment in my designs.
 <img width="1381" height="1145" alt="IMG_0131" src="https://github.com/user-attachments/assets/16afbbea-a53c-4005-a1b5-8628fdb44ef4" />
 
+Then I solved for the weight of a singular pin and then the total the mass of all the pins. I converted this into Newtons and then calculated for my total weight. The total weight came out to about 44.35N. 
 <img width="1718" height="773" alt="IMG_0132" src="https://github.com/user-attachments/assets/b47b8071-b1fa-48df-83e5-dccd04a5d3db" />
 
 
