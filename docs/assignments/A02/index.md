@@ -82,11 +82,46 @@ I learned a lot through this project. From the beginning, I had not used Solid W
 
 **6. Likelihood of Failure**
 
-Part 1:
+Part 1: Truss Members
 
+1. Expected Failure Mode by Member
 
-Part 2:
+  Members AE, BC, BF, CD, and EF (Tension members): Tensile Yielding
 
+  Members AB, BE, and DF (Compression members): Buckling (Elastic Instability).
+
+  Member CF (Zero-force member): No structural failure under primary design loads.
+     
+2. Material Property
+
+  Ductile: A500 Structural Steel is a ductile material
+   
+3. Stress Comparison and Reasoning
+
+  Tension Members(AE, BC, BF, CD, EF): Under internal tension forces, ductile steel yield plastically before reaching ultimate fracture. 
+  
+  Compression Members(AB, BE, DF): Under compressive force, slender structural members undergo elastic buckling at a critical compressive load lower than the material's yield strength threshold.
+  
+4. Proposed Design Modifications
+  For Tension Members: Increase the cross sectional area to lower normal stress below allowable yield limits.
+
+  For Compression Member: Increase cross sectional area or reduce the unsupported length to resister buckling.
+
+Part 2: Pin Connections
+
+1. Expected Failure Mode of the Pin
+
+  Shear Failure: Direct single shear across the pin cross-section
+
+2. Data Support from Credible Sources (https://www.sciencedirect.com/topics/engineering/von-mises-criteria)
+
+  AISC data and Von mises Yield Criterion establish yield strength of ductile structural steel at 60% of the tensile yield strength. Because shear strength is significantly lower than tensile yield strength, pins under loads fail predominantly in shear. 
+  
+3. Proposal Design Modifications
+
+  Double Sheer Configuration: Redesign join connections from single shear to double shear, this would reduce the shear force on each critical plane by half.
+
+  Increase Pin Diameter: Increasing the pin diameter would increase the cross sectional area therefore reducing the shear stress below maximum allowable shear strength. 
 
 **CAD Links**
 
