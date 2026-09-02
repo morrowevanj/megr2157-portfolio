@@ -56,7 +56,7 @@ Then I solved for the weight of a singular pin and then the total the mass of al
 For the material used, I chose Plain Carbon Steel in Solid Works which has similar properties to A500 Structure Steel Class C as specified above. All areas were maintained and process has been shown below of the parts being put together in Solid Works. Below are the specification of Plain Carbon Steel such that it may be referenced.
 <img width="542" height="303" alt="Screenshot 2026-08-31 141151" src="https://github.com/user-attachments/assets/2087bf7f-61da-404a-8a0a-7c6e647a2ad5" />
 
-Process of placing together the parts.
+Process of placing together the parts in the next 6 photos:
 <img width="832" height="365" alt="TRUSS ASSEMBLY STEP 1" src="https://github.com/user-attachments/assets/d984ee39-108e-47cf-a7fe-4e60d9c5f921" />
 
 <img width="1915" height="897" alt="TRUSS ASSEMBLY STEP 2" src="https://github.com/user-attachments/assets/c29f0e7f-5abb-41af-8ac6-a5aae67b2a2d" />
