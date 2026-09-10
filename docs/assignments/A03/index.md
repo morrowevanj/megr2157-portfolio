@@ -69,7 +69,9 @@ a. All the tests have been completed, I checked to make sure the maximum stress 
 
 <img width="832" height="293" alt="IMG_0136" src="https://github.com/user-attachments/assets/1a4b017b-1678-4444-9834-547ee1471e31" />
 
-b.
+b. Pin Stress 
+
+<img width="1809" height="502" alt="IMG_0137" src="https://github.com/user-attachments/assets/bf2a1900-b76f-4b2a-96db-c29546177f93" />
 
 
 ## 4. LEARNING LESSONS
