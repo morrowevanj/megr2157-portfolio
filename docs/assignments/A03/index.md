@@ -20,14 +20,18 @@
 
 **Initial Design**
 
-Assignment #3 is a Parametric and FEA circular beam design project. I was required to create a support that can withstand an applied direct load between 300 lbs and 500 lbs. The bar must be designed from Aluminum with a range of Youn's Modulus from (8.5 - 11.5) x 10^6 psi with a maximum axial deflection of the bar at .009 incheas. I used 6061-T4 (SS) Aluminum and selected 400 lb force for my direct load, and 10x10^6 psi. 
+Assignment #3 is a Parametric and FEA circular beam design project. I was required to create a support that can withstand an applied direct load between 300 lbs and 500 lbs. The bar must be designed from Aluminum with a range of Youn's Modulus from (8.5 - 11.5) x 10^6 psi with a maximum axial deflection of the bar at .009 incheas. I used 6061-T4 (SS) Aluminum and selected 400 lb force for my direct load, and 10x10^6 psi. I choose to just use a standard .5in diameter. The yield psi was 40000 psi.
 
 <img width="1164" height="821" alt="IMG_0135" src="https://github.com/user-attachments/assets/d7873559-80c3-4f96-9f41-4cd9e075b56c" />
 
 
 **CAD Design**
 
+I then inputted the parameters in SolidWorks and created equations for Area and Length.
+
 <img width="602" height="157" alt="Screenshot 2026-09-09 223540" src="https://github.com/user-attachments/assets/20d09f4d-da9b-4906-b72e-9885225ca1d9" />
+
+I then started the design of the rod by creating a circle and linking the diameter to the global variable.
 
 <img width="667" height="512" alt="Screenshot 2026-09-09 222913" src="https://github.com/user-attachments/assets/3bb8531e-8fc5-48e9-997e-9544b69d3001" />
 
