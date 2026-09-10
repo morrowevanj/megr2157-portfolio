@@ -69,7 +69,7 @@ a. All the tests have been completed, I checked to make sure the maximum stress 
 
 <img width="832" height="293" alt="IMG_0136" src="https://github.com/user-attachments/assets/1a4b017b-1678-4444-9834-547ee1471e31" />
 
-b. Pin Stress 
+b. Pin Hole Concentration: I calculated the maximum stress on the hole which came out to 7.26 which will pas the safety factor.
 
 <img width="1809" height="502" alt="IMG_0137" src="https://github.com/user-attachments/assets/bf2a1900-b76f-4b2a-96db-c29546177f93" />
 
