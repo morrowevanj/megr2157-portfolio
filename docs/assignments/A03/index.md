@@ -21,6 +21,7 @@
 
 <img width="632" height="275" alt="Screenshot 2026-09-09 223002" src="https://github.com/user-attachments/assets/f7400398-450e-4aa5-b92d-052d3188eb0c" />
 
+<img width="587" height="307" alt="Screenshot 2026-09-09 223106" src="https://github.com/user-attachments/assets/cbf701bd-ade2-4898-8128-f22194f67e7a" />
 
 
 ## 2. SOLIDWORKS FEA
