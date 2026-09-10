@@ -46,11 +46,17 @@ I then chose the material 1060 Alloy (Aluminum) below are the properties of the 
 
 ## 2. SOLIDWORKS FEA
 
+Below is the FEA design with the applied external force set to 400lbf on the opposite end from the fixture. I then turned the bar into a mesh and completed the following FEA Tests.
+
+*Stress*
+
 <img width="1436" height="540" alt="Screenshot 2026-09-09 225922" src="https://github.com/user-attachments/assets/d30cfb06-d2d9-4406-b984-146b234dfd96" />
 
+*Strain*
 
 <img width="1372" height="516" alt="Screenshot 2026-09-09 230058" src="https://github.com/user-attachments/assets/dacf5f84-0802-4fe1-a98d-d047daecaf69" />
 
+*Displacement*
 
 <img width="1347" height="502" alt="Screenshot 2026-09-09 230127" src="https://github.com/user-attachments/assets/b66d1e27-05b2-47c9-9b07-2f39a67ce392" />
 
