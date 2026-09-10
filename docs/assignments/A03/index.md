@@ -48,31 +48,37 @@ I then chose the material 1060 Alloy (Aluminum) below are the properties of the 
 
 Below is the FEA design with the applied external force set to 400lbf on the opposite end from the fixture. I then turned the bar into a mesh and completed the following FEA Tests.
 
+
 *Stress*
 
 <img width="1436" height="540" alt="Screenshot 2026-09-09 225922" src="https://github.com/user-attachments/assets/d30cfb06-d2d9-4406-b984-146b234dfd96" />
+
 
 *Strain*
 
 <img width="1372" height="516" alt="Screenshot 2026-09-09 230058" src="https://github.com/user-attachments/assets/dacf5f84-0802-4fe1-a98d-d047daecaf69" />
 
+
 *Displacement*
 
 <img width="1347" height="502" alt="Screenshot 2026-09-09 230127" src="https://github.com/user-attachments/assets/b66d1e27-05b2-47c9-9b07-2f39a67ce392" />
 
-
-
-
 ## 3. DESIGN REFLECTION
+
+All the tests have been completed, I checked to make sure the maximum stress was lower than the strength of aluminum and calculated the safety factor below. I then calculated the difference in deflection from the data gathered in my tets.
+
+<img width="832" height="293" alt="IMG_0136" src="https://github.com/user-attachments/assets/1a4b017b-1678-4444-9834-547ee1471e31" />
 
 
 ## 4. LEARNING LESSONS
 
+Through this project I learned about the in-depth capabilities of SolidWorks. I learned that through FEA testing we are able to observe stress, strain, and displacement on an object. This allows me to tests parts without actually having to create them and wasting material. This process is both economical and efficient. This assignment took me about 2 hours.
 
 ## 5. MODIFY DESIGN PARAMETERS
+
+
 
 **CAD LINKS:**
 
 [SOPH-DESIGN-A03-PART.SLDPRT](SOPH-DESIGN-A03-PART.SLDPRT)
 
-**FEA REPORT:**
