@@ -65,9 +65,11 @@ Below is the FEA design with the applied external force set to 400lbf on the opp
 
 ## 3. DESIGN REFLECTION
 
-All the tests have been completed, I checked to make sure the maximum stress was lower than the strength of aluminum and calculated the safety factor below. I then calculated the difference in deflection from the data gathered in my tets.
+a. All the tests have been completed, I checked to make sure the maximum stress was lower than the strength of aluminum and calculated the safety factor below. I then calculated the difference in deflection from the data gathered in my tests. The two values are essentially the same and these may agree due to the selection of material or the diameter. I would trust the hand calculation more than the FEA tests as I can physically follow the math instead of it being behind a software.
 
 <img width="832" height="293" alt="IMG_0136" src="https://github.com/user-attachments/assets/1a4b017b-1678-4444-9834-547ee1471e31" />
+
+b.
 
 
 ## 4. LEARNING LESSONS
@@ -76,7 +78,7 @@ Through this project I learned about the in-depth capabilities of SolidWorks. I 
 
 ## 5. MODIFY DESIGN PARAMETERS
 
-
+I edited the load and thickness of the part. I guess that the part with increase in length as I increased the load and decreased the thickness.
 
 **CAD LINKS:**
 
