@@ -13,23 +13,32 @@ Shows motor, the rigid wall and the force received on the shaft of the motor, wh
 
 ## FEATURE 1
 
+I chose PLA for my material as it has a good yield strength and modulus of elasticity. Design #1: Length 45mm, base 35mm. FBD is below. I solved for the height using the deformation and stress equations. I then solved for the cross-sectional area. 
+
 <img width="910" height="945" alt="IMG_0139" src="https://github.com/user-attachments/assets/d7c9e175-f4ac-4a80-95ca-e5df89cf4164" />
 
 
 ## FEATURE 2
+
+I chose PLA material again. Design #2, length 40mm, base 35mm. I copied the calculations that I did in the first feature.
 
 <img width="861" height="870" alt="IMG_0140" src="https://github.com/user-attachments/assets/36137241-4198-45b0-9584-e0eac736bd8a" />
 
 
 ## SKETCH
 
+Below is the drawn out isometrice view fo the full assmebly which is a combination of feature #1 and feature #2.
 <img width="501" height="444" alt="IMG_0141" src="https://github.com/user-attachments/assets/a17f748f-75b4-47da-8717-9ea7d7755539" />
 
 
 
 ## CAD Model (Parametric)
 
+First I setup my parametric equations below.
+
 <img width="776" height="512" alt="Screenshot 2026-09-17 004935" src="https://github.com/user-attachments/assets/8e8ebd28-3990-4029-b1aa-32937995e8cb" />
+
+Below I created each feature.
 
 <img width="512" height="460" alt="Screenshot 2026-09-17 002004" src="https://github.com/user-attachments/assets/f393578d-1c94-4bbe-b9fc-48087ff470bc" />
 
