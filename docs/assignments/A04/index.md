@@ -47,3 +47,9 @@ Shows motor, the rigid wall and the force received on the shaft of the motor, wh
 
 
 ## LESSONS LEARNED
+
+(SOPH-DESIGN-A04-PART.SLDDRW)[SOPH-DESIGN-A04-PART.SLDDRW]
+
+
+(SOPH-DESIGN-A04-PART.SLDPRT)[SOPH-DESIGN-A04-PART.SLDPRT]
+
