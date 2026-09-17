@@ -43,7 +43,7 @@ Shows motor, the rigid wall and the force received on the shaft of the motor, wh
 
 ## DRAWINGS 2157
 
-<img width="962" height="747" alt="image" src="https://github.com/user-attachments/assets/a50c14e0-230e-45a9-84f0-69ab4a7dd0e9" />
+[SOPH-DESIGN-A04-PART.pdf](SOPH-DESIGN-A04-PART.pdf)
 
 
 ## LESSONS LEARNED
