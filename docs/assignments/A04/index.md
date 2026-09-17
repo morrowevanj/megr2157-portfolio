@@ -13,11 +13,18 @@ Shows motor, the rigid wall and the force received on the shaft of the motor, wh
 
 ## FEATURE 1
 
+<img width="910" height="945" alt="IMG_0139" src="https://github.com/user-attachments/assets/d7c9e175-f4ac-4a80-95ca-e5df89cf4164" />
+
 
 ## FEATURE 2
 
+<img width="861" height="870" alt="IMG_0140" src="https://github.com/user-attachments/assets/36137241-4198-45b0-9584-e0eac736bd8a" />
+
 
 ## SKETCH
+
+<img width="501" height="444" alt="IMG_0141" src="https://github.com/user-attachments/assets/a17f748f-75b4-47da-8717-9ea7d7755539" />
+
 
 
 ## CAD Model (Parametric)
