@@ -39,7 +39,7 @@ First I setup my parametric equations below.
 
 <img width="776" height="512" alt="Screenshot 2026-09-17 004935" src="https://github.com/user-attachments/assets/8e8ebd28-3990-4029-b1aa-32937995e8cb" />
 
-Below I created each feature.
+Below I created each feature. I made the basic design from the features above, then I made the 18mm indent by making is 2mm deep. I then created 6mm hole in the middle of the shaft using 22mm diameter dimension from the gearbox. I then created 3.4mm bolt holes and then a 1.5mm filet on the inside edge of the motor mount.
 
 <img width="512" height="460" alt="Screenshot 2026-09-17 002004" src="https://github.com/user-attachments/assets/f393578d-1c94-4bbe-b9fc-48087ff470bc" />
 
@@ -49,11 +49,15 @@ Below I created each feature.
 
 <img width="420" height="328" alt="Screenshot 2026-09-17 002029" src="https://github.com/user-attachments/assets/6777b992-139e-4911-8454-efe527f4b010" />
 
+Below is the completed assembly model.
+
 <img width="762" height="496" alt="Screenshot 2026-09-17 002038" src="https://github.com/user-attachments/assets/ee93ad03-e0b9-4c1e-bd9c-fa96a1539c60" />
 
 
 
 ## DRAWINGS 2157
+
+Below is the CAD model completed with the drawing using Solid Works. The Front View, Right View, Top View, and Isometric View are included. Also using the ASME standard conventions.
 
 <img width="962" height="747" alt="Screenshot 2026-09-17 001457" src="https://github.com/user-attachments/assets/c49e5fa7-26d0-4aa4-ab4e-c6fd45bee1f4" />
 
@@ -61,6 +65,8 @@ Below I created each feature.
 
 
 ## LESSONS LEARNED
+
+This assignment took me about 3 hours. I learned the importance of beign detailed in your sketches and designs for the purpose of easily designing a part in solid works. I learned that for a part to be reliably made, multiple iterations are required and different types should be tested for the purpose of finding the best design. Though my design is simple, a much more complex design could solve the issue more efficiently with less material used.
 
 [SOPH-DESIGN-A04-PART.SLDDRW](SOPH-DESIGN-A04-PART.SLDDRW)
 
