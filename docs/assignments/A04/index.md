@@ -29,6 +29,8 @@ Shows motor, the rigid wall and the force received on the shaft of the motor, wh
 
 ## CAD Model (Parametric)
 
+<img width="776" height="512" alt="Screenshot 2026-09-17 004935" src="https://github.com/user-attachments/assets/8e8ebd28-3990-4029-b1aa-32937995e8cb" />
+
 <img width="512" height="460" alt="Screenshot 2026-09-17 002004" src="https://github.com/user-attachments/assets/f393578d-1c94-4bbe-b9fc-48087ff470bc" />
 
 <img width="402" height="435" alt="Screenshot 2026-09-17 002012" src="https://github.com/user-attachments/assets/506c383a-d9b2-4652-99be-577b941a1201" />
@@ -42,6 +44,8 @@ Shows motor, the rigid wall and the force received on the shaft of the motor, wh
 
 
 ## DRAWINGS 2157
+
+<img width="962" height="747" alt="Screenshot 2026-09-17 001457" src="https://github.com/user-attachments/assets/c49e5fa7-26d0-4aa4-ab4e-c6fd45bee1f4" />
 
 [SOPH-DESIGN-A04-PART.pdf](SOPH-DESIGN-A04-PART.pdf)
 
