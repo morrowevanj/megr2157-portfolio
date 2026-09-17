@@ -28,6 +28,7 @@ I chose PLA material again. Design #2, length 40mm, base 35mm. I copied the calc
 ## SKETCH
 
 Below is the drawn out isometrice view fo the full assmebly which is a combination of feature #1 and feature #2.
+
 <img width="501" height="444" alt="IMG_0141" src="https://github.com/user-attachments/assets/a17f748f-75b4-47da-8717-9ea7d7755539" />
 
 
