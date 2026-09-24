@@ -24,7 +24,11 @@ Below I solved for D, E and then created the detailed multi-view drawing of the 
 
 ## Lessons Learned:
 
+Governing Failure Mode: For feature A: stress governs as it is larger. The stress analysis is .357 in and the stiffness analysis is .276 in.
 
+Error Propagation: Due to the effects of stress analysis in feature B taking precedence. This early effect changes everything else.
+
+Assumption Sensitivity: I chose 6061-T6 aluminum. Changing the material would change the strength and stiffness results and could change the required dimensions.
 
 ## 2157
 
