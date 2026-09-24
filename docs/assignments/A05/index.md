@@ -30,6 +30,8 @@ Error Propagation: Due to the effects of stress analysis in feature B taking pre
 
 Assumption Sensitivity: I chose 6061-T6 aluminum. Changing the material would change the strength and stiffness results and could change the required dimensions.
 
+This assignment took me approximately 4 hours to complete.
+
 ## 2157
 
 <img width="1190" height="511" alt="IMG_0149" src="https://github.com/user-attachments/assets/e4e791fe-80ce-4a9c-a289-7933fa04f914" />
