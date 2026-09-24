@@ -34,6 +34,8 @@ This assignment took me approximately 4 hours to complete.
 
 ## 2157
 
+For this section  I used my Machinery's Handbook Volume 32 This feature was designated to be a Running/Sliding fit. From my calculation I am choosing a Class RC 4 Fit. With tolerances from the H8 hole. These charts are from page 645 in the book. The manufacturing process for this part is precision machining, reaming, broaching, and grinding.
+
 <img width="1190" height="511" alt="IMG_0149" src="https://github.com/user-attachments/assets/e4e791fe-80ce-4a9c-a289-7933fa04f914" />
 
 
