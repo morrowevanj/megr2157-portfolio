@@ -36,4 +36,8 @@ This assignment took me approximately 4 hours to complete.
 
 <img width="1190" height="511" alt="IMG_0149" src="https://github.com/user-attachments/assets/e4e791fe-80ce-4a9c-a289-7933fa04f914" />
 
-[CamScanner 9-24-26 00.17.pdf](https://github.com/user-attachments/files/32592043/CamScanner.9-24-26.00.17.pdf)
+
+<img width="3024" height="4032" alt="IMG_1682" src="https://github.com/user-attachments/assets/264b0d64-54b5-4a82-b98e-3860f009a2ba" />
+
+<img width="4032" height="3024" alt="IMG_1683" src="https://github.com/user-attachments/assets/a3d36db5-2a3f-4091-8e66-d20680fd041a" />
+
