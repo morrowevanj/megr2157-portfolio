@@ -1,8 +1,11 @@
 # A5 – Bracket Design
 
 ## Objective
+For Assignment #5, I was tasked with created a bracket to fit the beam seen in the figure below.
 
 <img width="782" height="361" alt="image" src="https://github.com/user-attachments/assets/115d7b48-a2ac-40b3-a6e5-3ebb9d647f4b" />
+
+The design parameters that I was given are stated below. I chose a force of 500 lbs. 
 
 <img width="465" height="400" alt="image" src="https://github.com/user-attachments/assets/3bc7ec1a-482e-4349-b4f1-28971b0e86c9" />
 
@@ -10,6 +13,8 @@
 
 
 ## Analyze
+
+Below I analyzed Stress and Stiffness for A, B, C, D, E. 
 
 <img width="850" height="776" alt="IMG_0144" src="https://github.com/user-attachments/assets/b5283d70-198b-42d5-8c16-daae93ef9133" />
 
