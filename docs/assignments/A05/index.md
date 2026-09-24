@@ -18,15 +18,13 @@ Below I analyzed Stress and Stiffness for A, B, C, D, E. I created a free body d
 
 <img width="850" height="776" alt="IMG_0144" src="https://github.com/user-attachments/assets/b5283d70-198b-42d5-8c16-daae93ef9133" />
 
+Below I solved for D, E and then created the detailed multi-view drawing of the calculated stress bracket. (The drawings are not to scale) The parameters in the stress calculations are greater than the stiffness calculations. 
+
 <img width="826" height="931" alt="IMG_0148" src="https://github.com/user-attachments/assets/65af3ce7-32f8-4c79-96d2-d8ee7077a2ad" />
 
+## Lessons Learned:
 
 
-
-## Decide
-
-
-## Communicate
 
 ## 2157
 
