@@ -14,7 +14,7 @@ The design parameters that I was given are stated below. I chose a force of 500 
 
 ## Analyze
 
-Below I analyzed Stress and Stiffness for A, B, C, D, E. 
+Below I analyzed Stress and Stiffness for A, B, C, D, E. I created a free body diagram for each, then solved for the unknowns algebraically and then numerically. The max deflection given in the assignment of 0.005 in, which is where "dmax" comes from in the calculations below. 
 
 <img width="850" height="776" alt="IMG_0144" src="https://github.com/user-attachments/assets/b5283d70-198b-42d5-8c16-daae93ef9133" />
 
