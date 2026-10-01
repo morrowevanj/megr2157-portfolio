@@ -9,8 +9,11 @@ For this assignment, I was tasked to create a 3D Model and a 2D drawing of my ca
 
 ## Parametric Design
 
+I used the calculations from my A5 assignment with the deflection values as they are larger than my stress values, such that my design will meet the strength and stiffness requirements for the bracket.
+
 <img width="756" height="280" alt="image" src="https://github.com/user-attachments/assets/53e02cde-a9e4-4bc2-a0bf-ab99668dfda2" />
 
+Below is the process of modeling the part.
 
 <img width="742" height="477" alt="Screenshot 2026-09-30 224248" src="https://github.com/user-attachments/assets/e5fe4dc4-6e3b-450f-8b9d-6919a3e27bd9" />
 
