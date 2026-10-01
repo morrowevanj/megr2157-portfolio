@@ -39,6 +39,7 @@ a. For feature B, I used the strength equation based off of the bending stress i
 
 b. For tolerance, I made a, b, c dimensions have tighter tolerances such that the part would be ensured to fit the bracket. For looser tolerance I chose non essential components such as the total height of the part. For example, if the flange width and pin base dimensions have looser tolerances the part would not have any issue. Tighter tolerances increases production cost as accuracy is a slower process.
 
+This assignment took me 2 hours.
 
 ## 2157
 
