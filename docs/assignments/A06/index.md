@@ -49,8 +49,17 @@ I design the link the same width as the wall width. I then cutout the same diame
 
 <img width="155" height="430" alt="Screenshot 2026-09-30 235200" src="https://github.com/user-attachments/assets/c90e214d-ea58-4f13-bf07-dbf0e86edf6f" />
 
+I then created the CAD drawing. I used the same specifications as used with the bracket drawings. 
+
 
 <img width="717" height="557" alt="image" src="https://github.com/user-attachments/assets/fce56a50-5b9b-4b15-95a7-f812a0874a73" />
+
+Lessons Learned:
+
+1. From this assignment I learned that tolerances are very important when parts are interacting with each other especially at a small size. Clearance is also very important as shifting parts is not desired but should be expected.
+
+2. Dimensions and tolerances communicate how a part should be manufactured. Without dimensions to communicate, the manufcacturer will not know the size or variances of size through the tolerance.
+
 
 ## Files
 
