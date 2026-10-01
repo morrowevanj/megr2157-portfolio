@@ -31,3 +31,12 @@ For this assignment, I was tasked to create a 3D Model and a 2D drawing of my ca
 
 
 ## 2157
+
+<img width="503" height="566" alt="Screenshot 2026-09-30 234749" src="https://github.com/user-attachments/assets/a852e371-7b37-4754-83bc-13a5b8b65532" />
+
+
+<img width="155" height="430" alt="Screenshot 2026-09-30 235200" src="https://github.com/user-attachments/assets/c90e214d-ea58-4f13-bf07-dbf0e86edf6f" />
+
+
+<img width="717" height="557" alt="image" src="https://github.com/user-attachments/assets/fce56a50-5b9b-4b15-95a7-f812a0874a73" />
+
