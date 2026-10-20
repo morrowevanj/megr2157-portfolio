@@ -41,6 +41,8 @@ For the bracket as shown above I decided to increase the thickness of the hanger
 
 ## Communicate
 
+Lessons Learned: From this project I realized that it is important to verify continuity of the units and additionally that repeatability of tests are necessary to the reliability of designs. 
+
 This assignment took approximately 3 hours.
 
 ## Cad Links
