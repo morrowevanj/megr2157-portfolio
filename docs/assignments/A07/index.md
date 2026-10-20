@@ -37,7 +37,7 @@ The steps are then repeated for the link.
 
 ## Decide
 
-For the bracket as shown above I decided to increase the thickness of the hanger connecter and then the diameter for the hanger. This allowed me to achieve the safety factor of 15 that I was going for. For the link as shown above I decided to increase the thickness of the link and then the width of the link as well. This allowed me to achieve the safety factor of 15 that I was going for.
+For the bracket as shown above I decided to increase the thickness of the hanger connecter and then the diameter for the hanger. This allowed me to achieve the safety factor of 15 that I was going for. For the link as shown above I decided to increase the thickness of the link and then the width of the link as well. This allowed me to achieve the safety factor of 15 that I was going for. The material that I used was Aluminum 6061-T6.
 
 ## Communicate
 
