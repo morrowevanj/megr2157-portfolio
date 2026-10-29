@@ -28,6 +28,8 @@
 
 <img width="281" height="162" alt="IMG_0241" src="https://github.com/user-attachments/assets/60486df6-5b30-4708-aa9d-edabde5de191" />
 
+I made the backside of the housing first then I made a copy and replaced the holes with pins, so my housing would fit together. I created the assembly after creating the gearbox. I installed the McMaster-Carr Solidworks plugin and used it to import gears, shafts and bearings. I imported Metal Gear 7880K19, Metal Gear 7880K24, Rotary Shaft 1327K93, Rotary Shaft 1327K113, Acetal Dry-Running Sleeve Bearing 2610T2 and Acetal Dry-Running Sleeve Bearing 2610T6. I determined the rotary shafts based off the diameters of the journal bearings and the gear diameter.
+
 <img width="451" height="434" alt="Screenshot 2026-10-28 233703" src="https://github.com/user-attachments/assets/084b327a-dc50-4164-af31-12d43b562803" />
 
 <img width="466" height="396" alt="Screenshot 2026-10-28 233655" src="https://github.com/user-attachments/assets/7b3b9f8f-db2d-4677-b338-cd9c9a9c3570" />
@@ -42,6 +44,10 @@
 
 ## Lessons Learned
 
+I learned the usefulness of plugins through the McMaster-Carr plugin. I also learned the ability to make multiple drawings from a singular assembly even with imported parts. Additionally I learned the usefulness of the pack-and-go feature and being able to add additional files to the zip that may not normally be included.
+
 ## CAD & 2157
+
+I created six drawings of my two shafts, two gearbox housings, and two plain bearings and assembly and imported into the zip file below with my CAD of the assembly as well. I made sure my drawings followed ASME Y14.5 standards as well as third angle projection.
 
 [SOPH-DESIGN-A08-ASSEMBLY.zip](SOPH-DESIGN-A08-ASSEMBLY.zip)
