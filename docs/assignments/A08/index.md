@@ -17,20 +17,28 @@
 
 ## Shaft Design
 
+I created FBD's, solved numerically, and found my unknowns.
+
 <img width="816" height="275" alt="IMG_0239" src="https://github.com/user-attachments/assets/b1ebcad2-0348-4504-bc6a-404ae9fa6870" />
 
 
 ## Journal Bearing Design
 
+I used the same logic above to solve for the bearings.
+
 <img width="832" height="424" alt="IMG_0240" src="https://github.com/user-attachments/assets/a677800e-e981-4c21-ba4c-cabf72d8154d" />
 
 ## Gearbox Housing Sketch & CAD
 
+I then designed the simplest gearbox as in other classes manufacturing costs are needed to be taken into consideration to limit overall part cost. So a simple box is the best design to go with.
+
 <img width="281" height="162" alt="IMG_0241" src="https://github.com/user-attachments/assets/60486df6-5b30-4708-aa9d-edabde5de191" />
 
-I made the backside of the housing first then I made a copy and replaced the holes with pins, so my housing would fit together. I created the assembly after creating the gearbox. I installed the McMaster-Carr Solidworks plugin and used it to import gears, shafts and bearings. I imported Metal Gear 7880K19, Metal Gear 7880K24, Rotary Shaft 1327K93, Rotary Shaft 1327K113, Acetal Dry-Running Sleeve Bearing 2610T2 and Acetal Dry-Running Sleeve Bearing 2610T6. I determined the rotary shafts based off the diameters of the journal bearings and the gear diameter.
+I then modeled the design in Solidworks below.
 
 <img width="451" height="434" alt="Screenshot 2026-10-28 233703" src="https://github.com/user-attachments/assets/084b327a-dc50-4164-af31-12d43b562803" />
+
+I made the backside of the housing first then I made a copy and replaced the holes with pins, so my housing would fit together. I created the assembly after creating the gearbox. I installed the McMaster-Carr Solidworks plugin and used it to import gears, shafts and bearings. I imported Metal Gear 7880K19, Metal Gear 7880K24, Rotary Shaft 1327K93, Rotary Shaft 1327K113, Acetal Dry-Running Sleeve Bearing 2610T2 and Acetal Dry-Running Sleeve Bearing 2610T6. I determined the rotary shafts based off the diameters of the journal bearings and the gear diameter.
 
 <img width="466" height="396" alt="Screenshot 2026-10-28 233655" src="https://github.com/user-attachments/assets/7b3b9f8f-db2d-4677-b338-cd9c9a9c3570" />
 
