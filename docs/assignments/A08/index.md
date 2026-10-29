@@ -52,7 +52,7 @@ I made the backside of the housing first then I made a copy and replaced the hol
 
 ## Lessons Learned
 
-I learned the usefulness of plugins through the McMaster-Carr plugin. I also learned the ability to make multiple drawings from a singular assembly even with imported parts. Additionally I learned the usefulness of the pack-and-go feature and being able to add additional files to the zip that may not normally be included.
+I learned the usefulness of plugins through the McMaster-Carr plugin. I also learned the ability to make multiple drawings from a singular assembly even with imported parts. Additionally I learned the usefulness of the pack-and-go feature and being able to add additional files to the zip that may not normally be included. This project approximately took me 4 hours.
 
 ## CAD & 2157
 
