@@ -1,12 +1,5 @@
-# A10 – [Topic]
+# A10 – Lead Screw
 
-## Objective
-
-
-## Analyze
-
-
-## Decide
-
-
-## Communicate
+<object data="./assets/your-file.pdf" type="application/pdf" width="100%" height="600px">
+  <p>Your browser does not support embedded PDFs. <a href="./assets/your-file.pdf">Download the PDF</a>.</p>
+</object>
